@@ -9,8 +9,7 @@ This jailbreak is an open source project.
 I guess you can modify it to add the exploit if you feel like it
 
 # DOESN"T WORK
-Works just takes time, no pkg manager
-This is from tests and what others have said (update)
+Doesn't work
 
 # Disclaimer
 It probably won't work,
