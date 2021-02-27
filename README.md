@@ -9,7 +9,7 @@ This jailbreak is an open source project.
 I guess you can modify it to add the exploit if you feel like it
 
 # DOESN"T WORK
-Doesn't work
+SO it escapes the sandbox but that's about it
 
 # Disclaimer
 It probably won't work,
