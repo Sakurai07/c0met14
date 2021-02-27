@@ -9,9 +9,8 @@ This jailbreak is an open source project.
 I guess you can modify it to add the exploit if you feel like it
 
 # DOESN"T WORK
-An expose on c0met,
-It is fake, I built it from the latest fork
-the JB doesn't work
+Works just takes time, no pkg manager
+This is from tests and what others have said (update)
 
 # Disclaimer
 It probably won't work,
